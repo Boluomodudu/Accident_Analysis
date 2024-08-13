@@ -44,4 +44,6 @@ Based on the requirements of this project, the following processes were made;
 
 ### Data Analysis
 
-
+Using Pivot Tables, the following analysis was being done;
+1. Sum of number_of_casualties to calculate the total casualties.
+2. Sum of number_of_casualties grouped by the accident_severity to calculate the total casualties'
