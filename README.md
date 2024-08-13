@@ -23,9 +23,12 @@ Excel: The Microsoft Excel tool was used from start to finish of this project, i
 
 EDA involved exploring the accident data to generate key questions and highlight the requirements of the project. This includes questions like;
 - What is the total casualties taken place after the accident?
-- What is the percentage of total casualties with respect to the accident severity?
-- What is the percentage of total casualties with respect to vehicle type?
-- What is the maximum casualties by road type?
+- What is the percentage of total casualties with respect to the Accident Severity?
+- What is the percentage of total casualties with respect to Vehicle Type?
+- What is the maximum Casualties by Road Type?
+- What is the distribution of total Casualties by Road Surface?
+- What is the relation between Casualties and Time of day (DAY/NIGHT)?
+- What is the relation between Casualties and Area/Location
 
 ### Data Processing
 
@@ -38,3 +41,7 @@ Based on the requirements of this project, the following processes were made;
  ``` Excel Function
    =TEXT(B2,"yyyy")
    ```
+
+### Data Analysis
+
+
