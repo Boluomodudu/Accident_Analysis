@@ -23,7 +23,7 @@ Excel: The Microsoft Excel tool was used from start to finish of this project, i
 
 EDA involved exploring the accident data to generate key questions and highlight the requirements of the project. This includes questions like;
 - What is the total casualties taken place after the accident?
-- What month of the year does an accident occur the most?
+- What month of the year does accidents occur the most?
 - What is the percentage of total casualties with respect to the Accident Severity?
 - What is the percentage of total casualties with respect to Vehicle Type?
 - What is the maximum Casualties by Road Type?
@@ -56,7 +56,7 @@ Using Pivot Tables, the following analysis was being done;
 6. Sum of number_of_casualties grouped by the Road_Surface_Conditions to calculate the casualties by Road surfaces.
    - This is done  by using the "Calculated Items" option in the pivot table to combine some Road surface conditions that fall within the same category.
    - After combining similar Road surface conditions, we are then left with 3 Road condition types (Dry, Wet, and Snow/Ice).
-7. Sum of number_of_casualties grouped by the Are/Location to calculate the casualties by either the Urban or Rural Area, as well as format the values into thousands (K) to make it look concise for the dashboard.
+7. Sum of number_of_casualties grouped by the Area/Location to calculate the casualties by either the Urban or Rural Area, as well as format the values into thousands (K) to make it look concise for the dashboard.
 8. Sum of number_of_casualties grouped by the Light conditions to calculate the casualties by either night or day, as well as format the values into thousands (K) to make it look concise for the dashboard. I also made use of the "Calculated Items" option in the pivot table to combine some Light conditions that fall within the same category.
 9. We then created a Timeline using the Accident date and connecting it to all other pivot table created except that of the monthly trends.
 10. A slicer was also created using the Urban/Rural Area and connecting it to all other pivot table created.
@@ -65,3 +65,9 @@ Using Pivot Tables, the following analysis was being done;
 
 The analysis results are summarised as follows;
 - Cars are involved in the most accidents, with cars constituting almost 80% of all casualties in the previous and current years.
+- There are minimal Fatal Casualties, with just 1.7% of all casualties being Fatal.
+- Casualties pick up at the beginning of the year, risisng slightly throughout the year, peaking in November and finally dorpping drastically in December.
+- It is being observed that there is a drop in accidents during the "festive seasons" or "break periods" like August/September (Summer breaks) and December/January (Festivities).
+- Average casualties in the current year is lower than the previous year.
+- Dry roads have been seen to be the road surface with most account of accidents and single carriageways is the road type with the highest casualties.
+- Casualties take place in the Rural area about 61% of the time and about 72% of the time accidents take place in daytime.
