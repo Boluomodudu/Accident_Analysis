@@ -75,4 +75,10 @@ The analysis results are summarised as follows;
 ### Recommendations
 
 Based on the analysis, we recommend the following actions;
-1. 
+1. Implement targeted road safety campaigns during high-risk periods, particularly in November, to address the peak in accidents. These campaigns could focus on safe driving practices, particularly in adverse weather conditions that might be more common during this time.
+2. Introduce better traffic management systems, like synchronized traffic lights, and speed reduction zones in densely populated and Urban areas.
+3. Since cars are involved in the majority of accidents, promote regular vehicle safety checks. Encourage drivers to maintain their vehicles properly, focusing on brake systems, tires, and lights, which are critical for safe driving.
+4. Given that single carriageways have the highest casualties, infrastructure improvements such as, widening single carriageways to reduce the risk of head-on collisions as well as Improve road signage and markings on single carriageways to ensure drivers are well-informed of upcoming hazards, sharp turns, or changes in road conditions.
+5. Since dry roads account for the most accidents, investigation to probe if road surfaces contribute to this trend should be considered as well as resurfacing problematic areas or using materials that provide better grip in dry conditions.
+6. Since a majority of accidents occur during the day, the importance of staying alert even in seemingly safe daylight conditions should be emphasized.
+7. Consider collecting more detailed data in future projects, such as driver age, time of accident, or specific weather conditions, to gain deeper insights into the causes of accidents.
