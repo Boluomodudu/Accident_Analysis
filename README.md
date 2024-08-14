@@ -46,4 +46,8 @@ Based on the requirements of this project, the following processes were made;
 
 Using Pivot Tables, the following analysis was being done;
 1. Sum of number_of_casualties to calculate the total casualties.
-2. Sum of number_of_casualties grouped by the accident_severity to calculate the total casualties'
+2. Sum of number_of_casualties grouped by the accident_severity to calculate the percentage of each accident severity of the total.
+3. Sum of number_of_casualties grouped by the vehicle_type to calculate the casualties by each vehicle types.
+   - This is done  by using the "Calculated Items" option in the pivot table to combine some vehicle types that fall within the same category.
+   - After combining similar vehicles, we are then left with 6 vehicle types (Agricultural Vehicle, Car, Vans, Bike, Bus and Others).
+4. 
