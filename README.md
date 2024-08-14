@@ -70,4 +70,9 @@ The analysis results are summarised as follows;
 - It is being observed that there is a drop in accidents during the "festive seasons" or "break periods" like August/September (Summer breaks) and December/January (Festivities).
 - Average casualties in the current year is lower than the previous year.
 - Dry roads have been seen to be the road surface with most account of accidents and single carriageways is the road type with the highest casualties.
-- Casualties take place in the Rural area about 61% of the time and about 72% of the time accidents take place in daytime.
+- Casualties take place in the Urban areas about 61% of the time and about 72% of the time accidents take place in daytime.
+
+### Recommendations
+
+Based on the analysis, we recommend the following actions;
+1. 
