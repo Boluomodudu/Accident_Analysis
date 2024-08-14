@@ -62,3 +62,6 @@ Using Pivot Tables, the following analysis was being done;
 10. A slicer was also created using the Urban/Rural Area and connecting it to all other pivot table created.
 
 ### Results/Findings
+
+The analysis results are summarised as follows;
+- Cars are involved in the most accidents, with cars constituting almost 80% of all casualties in the previous and current years.
