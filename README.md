@@ -1,5 +1,19 @@
 # Road Accident Data Analysis
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning/Preparation](#data-cleaning/preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Processing](#data-processing)
+- [Data Analysis](#data-analysis)
+- [Results/Findings](#results/findings)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+
+
 ### Project Overview
 
 This data analysis project aims to provide insights into a Road Accident data for the years 2021 and 2022. By analysing various aspects of the Road Accident data, we seek to identify trends, make comparisons, highlight the relationships between the variables in the data, and gain a deeper understanding of the distribution of casualties.
