@@ -23,11 +23,12 @@ Excel: The Microsoft Excel tool was used from start to finish of this project, i
 
 EDA involved exploring the accident data to generate key questions and highlight the requirements of the project. This includes questions like;
 - What is the total casualties taken place after the accident?
+- What month of the year does an accident occur the most?
 - What is the percentage of total casualties with respect to the Accident Severity?
 - What is the percentage of total casualties with respect to Vehicle Type?
 - What is the maximum Casualties by Road Type?
-- What is the distribution of total Casualties by Road Surface?
-- What is the relation between Casualties and Time of day (DAY/NIGHT)?
+- What is the distribution of Total Casualties by Road Surface?
+- What is the relation between Casualties and Light Conditions (DAY/NIGHT)?
 - What is the relation between Casualties and Area/Location
 
 ### Data Processing
@@ -50,4 +51,10 @@ Using Pivot Tables, the following analysis was being done;
 3. Sum of number_of_casualties grouped by the vehicle_type to calculate the casualties by each vehicle types.
    - This is done  by using the "Calculated Items" option in the pivot table to combine some vehicle types that fall within the same category.
    - After combining similar vehicles, we are then left with 6 vehicle types (Agricultural Vehicle, Car, Vans, Bike, Bus and Others).
-4. 
+4. Number_of_casualties grouped by the each months and filetered by each year. This was done to access the casualties in each month and create a combo chart of monthly trend for each year.
+5. Sum of number_of_casualties grouped by the Road_type to calculate the casualties by each Road type, as well as format the values into thousands (K) to make it look concise for the dashboard.
+6. Sum of number_of_casualties grouped by the Road_Surface_Conditions to calculate the casualties by Road surfaces.
+   - This is done  by using the "Calculated Items" option in the pivot table to combine some Road surface conditions that fall within the same category.
+   - After combining similar Road surface conditions, we are then left with 3 Road condition types (Dry, Wet, and Snow/Ice).
+7. Sum of number_of_casualties grouped by the Are/Location to calculate the casualties by either the Urban or Rural Area, as well as format the values into thousands (K) to make it look concise for the dashboard.
+8. Sum of number_of_casualties grouped by the Light conditions to calculate the casualties by either night or day, as well as format the values into thousands (K) to make it look concise for the dashboard. I also made use of the "Calculated Items" option in the pivot table to combine some Light conditions that fall within the same category.
