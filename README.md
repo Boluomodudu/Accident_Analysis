@@ -82,3 +82,9 @@ Based on the analysis, we recommend the following actions;
 5. Since dry roads account for the most accidents, investigation to probe if road surfaces contribute to this trend should be considered as well as resurfacing problematic areas or using materials that provide better grip in dry conditions.
 6. Since a majority of accidents occur during the day, the importance of staying alert even in seemingly safe daylight conditions should be emphasized.
 7. Consider collecting more detailed data in future projects, such as driver age, time of accident, or specific weather conditions, to gain deeper insights into the causes of accidents.
+
+### Limitations
+
+- I had to regulate inaccuracies and inconsistencies in the data, such as typographical errors, which might affect the reliability of your analysis.
+- Limited Timeframe: The dataset only covers 2021 and 2022, which might not be sufficient to identify long-term trends. Seasonal or yearly variations could influence the data, and a more extended period might provide more robust conclusions.
+- Limited Variables: The analysis was based on the available variables in the dataset. However, other factors not included, such as driver age, weather conditions at the time of the accident, traffic density, or driver behavior, could provide additional insights.
