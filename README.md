@@ -58,3 +58,7 @@ Using Pivot Tables, the following analysis was being done;
    - After combining similar Road surface conditions, we are then left with 3 Road condition types (Dry, Wet, and Snow/Ice).
 7. Sum of number_of_casualties grouped by the Are/Location to calculate the casualties by either the Urban or Rural Area, as well as format the values into thousands (K) to make it look concise for the dashboard.
 8. Sum of number_of_casualties grouped by the Light conditions to calculate the casualties by either night or day, as well as format the values into thousands (K) to make it look concise for the dashboard. I also made use of the "Calculated Items" option in the pivot table to combine some Light conditions that fall within the same category.
+9. We then created a Timeline using the Accident date and connecting it to all other pivot table created except that of the monthly trends.
+10. A slicer was also created using the Urban/Rural Area and connecting it to all other pivot table created.
+
+### Results/Findings
