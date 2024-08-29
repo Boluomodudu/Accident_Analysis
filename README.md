@@ -15,18 +15,22 @@
 
 
 ### Project Overview
+---
 
 This data analysis project aims to provide insights into a Road Accident data for the years 2021 and 2022. By analysing various aspects of the Road Accident data, we seek to identify trends, make comparisons, highlight the relationships between the variables in the data, and gain a deeper understanding of the distribution of casualties.
 
 ### Data Sources
+---
 
 Road Accident Data: The primary dataset used for this analysis is the "Road Accident Data.xlsx", containing detailed information about each occurence of accidents in 2021 and 2022.
 
 ### Tools
+---
 
 Excel: The Microsoft Excel tool was used from start to finish of this project, including, data cleaning, data processing, data analysis and creating of dashboard.
 
 ### Data Cleaning/Preparation
+---
 
   In the initial data preparation phase, we performed the following tasks;
   - Data loading and inspection.
@@ -34,6 +38,7 @@ Excel: The Microsoft Excel tool was used from start to finish of this project, i
   - Data cleaning and formatting.
 
 ### Exploratory Data Analysis
+---
 
 EDA involved exploring the accident data to generate key questions and highlight the requirements of the project. This includes questions like;
 - What is the total casualties taken place after the accident?
@@ -46,6 +51,7 @@ EDA involved exploring the accident data to generate key questions and highlight
 - What is the relation between Casualties and Area/Location
 
 ### Data Processing
+---
 
 Based on the requirements of this project, the following processes were made;
 1. A "Month" column was added by inserting a new column and using the Text function to extract the first three letters of the month from the date column.
@@ -58,6 +64,7 @@ Based on the requirements of this project, the following processes were made;
    ```
 
 ### Data Analysis
+---
 
 Using Pivot Tables, the following analysis was being done;
 1. Sum of number_of_casualties to calculate the total casualties.
@@ -76,6 +83,7 @@ Using Pivot Tables, the following analysis was being done;
 10. A slicer was also created using the Urban/Rural Area and connecting it to all other pivot table created.
 
 ### Results/Findings
+---
 
 The analysis results are summarised as follows;
 - Cars are involved in the most accidents, with cars constituting almost 80% of all casualties in the previous and current years.
@@ -87,6 +95,7 @@ The analysis results are summarised as follows;
 - Casualties take place in the Urban areas about 61% of the time and about 72% of the time accidents take place in daytime.
 
 ### Recommendations
+---
 
 Based on the analysis, we recommend the following actions;
 1. Implement targeted road safety campaigns during high-risk periods, particularly in November, to address the peak in accidents. These campaigns could focus on safe driving practices, particularly in adverse weather conditions that might be more common during this time.
@@ -98,6 +107,7 @@ Based on the analysis, we recommend the following actions;
 7. Consider collecting more detailed data in future projects, such as driver age, time of accident, or specific weather conditions, to gain deeper insights into the causes of accidents.
 
 ### Limitations
+---
 
 - I had to regulate inaccuracies and inconsistencies in the data, such as typographical errors, which might affect the reliability of your analysis.
 - Limited Timeframe: The dataset only covers 2021 and 2022, which might not be sufficient to identify long-term trends. Seasonal or yearly variations could influence the data, and a more extended period might provide more robust conclusions.
