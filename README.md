@@ -111,4 +111,4 @@ Based on the analysis, we recommend the following actions;
 
 - I had to regulate inaccuracies and inconsistencies in the data, such as typographical errors, which might affect the reliability of your analysis.
 - Limited Timeframe: The dataset only covers 2021 and 2022, which might not be sufficient to identify long-term trends. Seasonal or yearly variations could influence the data, and a more extended period might provide more robust conclusions.
-- Limited Variables: The analysis was based on the available variables in the dataset. However, other factors not included, such as driver age, weather conditions at the time of the accident, traffic density, or driver behavior, could provide additional insights.
+- Limited Variables: The analysis was based on the available variables in the dataset. However, other factors, such as driver age, weather conditions at the time of the accident, traffic density, or driver behavior, that could provide additional insights are not included.
